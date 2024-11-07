@@ -1,1 +1,21 @@
-# SharonaSalari
+### Hi there! 👋 I'm Sharona
+
+I'm a recent Computer Science graduate with a passion for software development.
+I'm currently looking for an opportunity to start my career as a developer, where I can apply my skills and continue learning in a dynamic and collaborative environment.
+
+### 🛠️ Technologies & Tools
+- **Languages**: ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=ffffff)
+- **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=ffffff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
+
+### 🚀 Projects
+- **[Project Name 1](https://github.com/yourusername/project1)** - A brief description of the project. Include the tech stack and what you accomplished.
+- **[Project Name 2](https://github.com/yourusername/project2)** - Describe your role in the project, tools used, and its purpose.
+  
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/sharona-seleri-47b19b218/) 
+- [Email](sharona62638@gmail.com)
+- Phone: 055-8821-86
+
+Thanks for visiting my profile! Looking forward to connecting and building something amazing together!
