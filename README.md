@@ -8,7 +8,7 @@ I'm currently looking for an opportunity to start my career as a developer, wher
 - **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=ffffff) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=ffffff)
 
 ### 🚀 Projects
-- **[Project Name 1](https://github.com/yourusername/project1)** - A brief description of the project. Include the tech stack and what you accomplished.
+- **[PromLink](https://github.com/sharonaSalari/PromLink)** - PromLink is a tool designed to integrate traffic alerts from Prometheus into communication platforms like Mattermost and Rocket Chat. This project helps enhance the way organizations receive and interact with traffic-related alerts, making the alerts more actionable and informative.
 - **[Project Name 2](https://github.com/yourusername/project2)** - Describe your role in the project, tools used, and its purpose.
   
 ---
