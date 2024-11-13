@@ -9,7 +9,9 @@ I'm currently looking for an opportunity to start my career as a developer, wher
 
 ### 🚀 Projects
 - **[PromLink](https://github.com/sharonaSeleri/PromLink)** - PromLink is a tool designed to integrate traffic alerts from Prometheus into communication platforms like Mattermost and Rocket Chat. This project helps enhance the way organizations receive and interact with traffic-related alerts, making the alerts more actionable and informative.
-- **[Project Name 2](https://github.com/yourusername/project2)** - Describe your role in the project, tools used, and its purpose.
+- **[Image-Based Number Recognition in Machine Learning]
+* - developing an algorithm for recognizing and classifying
+numbers from images
   
 ---
 
