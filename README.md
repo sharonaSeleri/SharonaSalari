@@ -18,6 +18,6 @@ I'm currently looking for an opportunity to start my career as a developer, wher
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/sharona-seleri-47b19b218/) 
 - [Email](sharona62638@gmail.com)
-- Phone: 055-8821-86
+- Phone: 055-8821-861
 
 Thanks for visiting my profile! Looking forward to connecting and building something amazing together!
